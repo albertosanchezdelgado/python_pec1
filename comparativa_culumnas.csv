@@ -1,0 +1,71 @@
+FIFA 17;FIFA 18;Fifa 19;Nombre Final
+ 'Acceleration',; 'Acceleration',; 'Acceleration',;Acceleration
+ 'Age',; 'Age',; 'Age',;Age
+ 'Aggression',; 'Aggression',; 'Aggression',;Aggression
+ 'Agility',; 'Agility',; 'Agility',;Agility
+ 'Balance',; 'Balance',; 'Balance',;Balance
+ 'Ball_Control',; 'Ball control',; 'BallControl',;Ball_control
+ 'Club',; 'Club',; 'Club',;Club
+ 'Club_Position',; 'Positioning',; 'Position',;Position
+ 'Composure',; 'Composure',; 'Composure',;Composure
+ 'Crossing',; 'Crossing',; 'Crossing',;Crossing
+ 'Curve',; 'Curve',; 'Curve',;Curve
+ 'Dribbling',; 'Dribbling',; 'Dribbling',;Dribbling
+ 'Finishing',; 'Finishing',; 'Finishing',;Finishing
+ 'Freekick_Accuracy',; 'Free kick accuracy',; 'FKAccuracy',;FK_Accurancy
+ 'GK_Diving',; 'GK diving',; 'GKDiving',;GK_Diving
+ 'GK_Handling',; 'GK handling',; 'GKHandling',;GK_Handling
+ 'GK_Kicking',; 'GK kicking',; 'GKKicking',;GK_Kicking
+ 'GK_Positioning',; 'GK positioning',; 'GKPositioning',;GK_Positioning
+ 'GK_Reflexes; 'GK reflexes',; 'GKReflexes',;GK_Reflexes
+ 'Heading',; 'Heading accuracy',; 'HeadingAccuracy',;Heading
+ 'Interceptions',; 'Interceptions',; 'Interceptions',;Interceptions
+ 'Jumping',; 'Jumping',; 'Jumping',;Jumping
+ 'Long_Pass',; 'Long passing',; 'LongPassing',;Long_Passing
+ 'Long_Shots',; 'Long shots',; 'LongShots',;Long_Shots
+ 'Marking',; 'Marking',; 'Marking',;Marking
+ 'Name',; 'Name',; 'Name',;Name
+ 'Nationality',; 'Nationality',; 'Nationality',;Nationality
+ 'Penalties',; 'Penalties',; 'Penalties',;Penalties
+ 'Rating',; 'Overall',; 'Overall',;Overall
+ 'Reactions',; 'Reactions',; 'Reactions',;Reactions
+ 'Short passing',; 'Short_Pass',; 'ShortPassing',;Short_Passing
+ 'Shot_Power',; 'Shot power',; 'ShotPower',;Shot_Power
+ 'Sliding tackle',; 'Sliding_Tackle',; 'SlidingTackle',;Sliding_Tackle
+ 'Speed',; 'Sprint speed',; 'SprintSpeed',;Speed
+ 'Stamina',; 'Stamina',; 'Stamina',;Stamina
+ 'Standing_Tackle',; 'Standing tackle',; 'Standing_Tackle',;Standing_Tackle
+ 'Strength',; 'Strength',; 'Strength',;Strength
+ 'Vision',; 'Vision',; 'Vision',;Vision
+ 'Volleys',; 'Volleys',; 'Volleys',;Volleys
+ 'Weight',; 'Weight',; 'Weight',;Weight
+; 'Wage',; 'Wage',;Wage
+; 'Value',; 'Value',;Value
+; 'Potential',; 'Potential',;Potential
+;; 'Height',;Height
+; 'CAM',; 'CAM',;CAM
+; 'CB',; 'CB',;CB
+; 'CDM',; 'CDM',;CDM
+; 'Positioning',; 'Positioning',;Posicionamiento
+; 'CM',; 'CM',;CM
+; 'LAM',; 'LAM',;LAM
+; 'LB',; 'LB',;LB
+; 'LCB',; 'LCB',;LCB
+; 'RAM',; 'RAM',;RAM
+; 'LCM',; 'LCM',;LCM
+; 'LDM',; 'LDM',;LDM
+; 'LF',; 'LF',;LF
+; 'LM',; 'LM',;LM
+; 'LS',; 'LS',;LS
+; 'LW',; 'LW',;LW
+; 'LWB',; 'LWB',;LWB
+; 'RB',; 'RB',;RB
+; 'RCB',; 'RCB',;RCB
+; 'RCM',; 'RCM',;RCM
+; 'RDM',; 'RDM',;RDM
+; 'RF',; 'RF',;RF
+; 'RM',; 'RM',;RM
+; 'RS',; 'RS',;RS
+; 'RW',; 'RW',;RW
+; 'RWB',; 'RWB',;RWB
+; 'ST',; 'ST',;ST
